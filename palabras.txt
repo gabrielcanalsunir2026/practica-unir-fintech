@@ -1,0 +1,10 @@
+computer
+apple
+zebra
+book
+mountain
+river
+sun
+moon
+star
+cloud
