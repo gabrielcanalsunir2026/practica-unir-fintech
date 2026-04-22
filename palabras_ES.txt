@@ -1,0 +1,10 @@
+ordenador
+manzana
+cebra
+libro
+montaña
+río
+sol
+luna
+estrella
+nube
